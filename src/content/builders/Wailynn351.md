@@ -1,5 +1,5 @@
 ---
-name: Wailynn351
+name: Wailynn
 github: Wailynn351
 cohort: 1
 role: builder
